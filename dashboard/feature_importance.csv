@@ -1,0 +1,18 @@
+Feature,Importance
+rain_sum (mm),0.3375225115186324
+precipitation_hours (h),0.27864307889238055
+et0_fao_evapotranspiration (mm),0.11167178763995551
+shortwave_radiation_sum (MJ/m²),0.055516268931368046
+sunshine_duration (s),0.041493568557105835
+day_of_year,0.039398570545266985
+temperature_2m_max (°C),0.027357898141119327
+month,0.022963590989732215
+temperature_2m_mean (°C),0.02262250765321787
+latitude,0.01727361962490706
+wind_speed_10m_max (km/h),0.013959021503094684
+wind_direction_10m_dominant (°),0.008235908509632177
+apparent_temperature_mean (°C),0.006953484750418102
+wind_gusts_10m_max (km/h),0.0066059346116138975
+temperature_2m_min (°C),0.004586447381829127
+longitude,0.0034287148389149057
+elevation,0.0017670859108114168

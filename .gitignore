@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Mac files
+.DS_Store
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Streamlit temporary files
+.streamlit/
